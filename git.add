@@ -1,0 +1,44 @@
+  434  cgit
+  435  git
+  504  git init
+  507  git add README 
+  508  git commit -m 'initial' README
+  509  git remote add origin git@github.com:MarkHofstetter/php-oracle.git
+  510  git push origin master
+  511  git push origin master
+  513  git push origin master
+  515  git add .
+  516  git commit -m 'initial' .
+  517  git push origin master
+  519  git add quickstart
+  522  git rm .
+  523  git rm -r .
+  524  git commit -m 'initial' .
+  525  git push origin master
+  528  git add quickstart
+  529  git init
+  530  git add quickstart
+  531  git commit -m 'initial' quickstart
+  532  git remote add origin git@github.com:MarkHofstetter/php-oracle.git
+  533  git push origin master
+  534  git push origin master
+  535  git push origin master quickstart
+  537  git push origin master 
+  538  git add -r quickstart
+  539  git add quickstart/.
+  541  git add quickstart/.
+  542  git commit -m 'initial' quickstart/.
+  545  rm -rf .git/
+  550  git add quickstart/.
+  551  git add -r quickstart/.
+  552  git commit -m 'initial' quickstart/.
+  553  git commit -m 'initial' quickstart
+  554  git commit -m 'initial' quickstart/.
+  555  git commit -m 'initial' quickstart
+  556  git push origin master
+  557  git show
+  559  git commit 
+  560  git add .
+  561  git commit -m 'initial' 
+  563  history  |grep git
+  564  history  |grep git > git.add
